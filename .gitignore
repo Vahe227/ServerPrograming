@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Generated Prisma client
+generated/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
